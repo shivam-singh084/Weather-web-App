@@ -1,0 +1,24 @@
+.bigCard {
+  margin-top: 3rem;
+  padding: 2.5rem;
+
+  background: linear-gradient(135deg, #00c6ff, #0072ff);
+  color: white;
+  border-radius: 26px;
+
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.4);
+  animation: fadeUp 0.7s ease;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
