@@ -27,6 +27,10 @@ A modern and responsive weather web application built with **React** and **Vite*
 
 ## 📸 Screenshots
 > (Add screenshots here later)
+<img width="1898" height="898" alt="Screenshot 2026-02-02 201500" src="https://github.com/user-attachments/assets/8b1a7410-530e-4359-8ae0-ba2f9d144db9" />
+<img width="1123" height="579" alt="Screenshot 2026-02-02 201520" src="https://github.com/user-attachments/assets/e787b769-9b3c-42f4-950b-fc5f07748ecf" />
+<img width="1912" height="921" alt="Screenshot 2026-02-02 201606" src="https://github.com/user-attachments/assets/fa561169-e0f7-4f03-a3a0-813dabbf5262" />
+
 
 ---
 
